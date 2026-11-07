@@ -1,0 +1,6 @@
+{
+  "name": "UMS Nehrua Kala",
+  "description": "Official app for UMS Nehrua Kala, Panchdeori, Gopalganj. School info, admissions, academics, notices, and student life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

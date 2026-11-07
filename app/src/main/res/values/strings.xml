@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UMS Nehrua Kala</string>
+    <string name="school_full_name">Utkramit Madhya Vidyalaya Nehrua Kala</string>
+    <string name="school_short_name">UMS Nehrua Kala</string>
+    <string name="school_tagline">A Step Towards a Brighter Future</string>
+    <string name="school_motto">Learn • Grow • Achieve</string>
+    <string name="school_address">Nehrua Kala, Panchdeori, Gopalganj, Bihar</string>
+    <string name="vice_principal_name">Mr. Janardan Ojha</string>
+    <string name="contact_phone">9471471275</string>
+    <string name="welcome_heading">Education Today… A Better Tomorrow</string>
+</resources>
